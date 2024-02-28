@@ -15,7 +15,7 @@ Foyez Ahmed</a></h1><h3 align="center">A passionate Python developer from Bangla
 
 - 📫 How to reach me **ahmedfoyez786@gmail.com**
 
-- 👨‍💻 My  resume is available at [foyezahmed.tech](foyezahmed.tech)
+- 👨‍💻 My  resume is available at <a href="https://foyezahmed.tech/">foyezahmed.tech</a>
 <br/>
 
 
